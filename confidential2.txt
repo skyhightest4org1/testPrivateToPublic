@@ -1,0 +1,9 @@
+Confidential
+Confidential
+Confidential
+Confidential
+Confidential
+Confidential
+<highlight> This is a !@#$%*()test </highlight> classification
+Test keyw0rd c0nf!dent!@1{}[]()*&^%$#@~`,./?=_
+the text file is with Confidential keywords
