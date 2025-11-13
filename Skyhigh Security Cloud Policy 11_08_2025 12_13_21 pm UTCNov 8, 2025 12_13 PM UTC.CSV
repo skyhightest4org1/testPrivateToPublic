@@ -1,0 +1,15 @@
+﻿Sev,Policy Name,Item Name,User Name,Incident Created On,Incident Response,Incident Status ,Service Name,Instance Name
+2,dropbox_test,s1.txt,sudhamini.tirumalagari@skyhighsecurity.com,"Nov 08, 2025 17:30:36 IST",Deleted,resolved,Dropbox for Business,DefaultOLD
+2,dropbox_test,s1.pdf,sudhamini.tirumalagari@skyhighsecurity.com,"Nov 08, 2025 17:30:34 IST",Quarantined,resolved,Dropbox for Business,DefaultOLD
+2,dropbox_test,s1 (1).docx,sudhamini.tirumalagari@skyhighsecurity.com,"Nov 08, 2025 17:27:58 IST",Quarantined,new,Dropbox for Business,DefaultOLD
+2,dropbox_test,s1.docx,sudhamini.tirumalagari@skyhighsecurity.com,"Nov 08, 2025 17:25:34 IST",Quarantined,new,Dropbox for Business,DefaultOLD
+0,OF-36748,IBANIdentifierData.csv,sudhaqaar1@gmail.com,"Oct 16, 2025 08:35:26 IST",Allowed,new,Dropbox for Business,DefaultOLD
+0,OF-36748,IBANIdentifierData.csv,sudhaqaar1@gmail.com,"Oct 15, 2025 08:45:42 IST",Allowed,new,Dropbox for Business,DefaultOLD
+0,OF-36748,IBANIdentifierData.csv,sudhaqaar1@gmail.com,"Oct 14, 2025 08:32:37 IST",Allowed,new,Dropbox for Business,DefaultOLD
+0,OF-36748,IBANIdentifierData.csv,sudhaqaar1@gmail.com,"Oct 09, 2025 08:24:19 IST",Allowed,new,Dropbox for Business,DefaultOLD
+0,OF-36748,IBANIdentifierData.csv,sudhaqaar1@gmail.com,"Oct 08, 2025 21:59:37 IST",Allowed,new,Dropbox for Business,DefaultOLD
+0,OF-36748,IBANIdentifierData.csv,sudhaqaar1@gmail.com,"Oct 08, 2025 15:26:35 IST",Allowed,new,Dropbox for Business,DefaultOLD
+2,test,Document (2).docx,sudhamini.tirumalagari@skyhighsecurity.com,"Oct 08, 2025 10:36:28 IST",Delete Failed,new,Dropbox for Business,DefaultOLD
+2,test,Document (2).docx,sudhamini.tirumalagari@skyhighsecurity.com,"Oct 08, 2025 10:36:26 IST",Delete Failed,suppressed,Dropbox for Business,DefaultOLD
+2,test,Document (2).docx,sudhamini.tirumalagari@skyhighsecurity.com,"Oct 08, 2025 10:36:24 IST",Deleted,suppressed,Dropbox for Business,DefaultOLD
+2,test,text (1).txt,sudhamini.tirumalagari@skyhighsecurity.com,"Oct 08, 2025 10:36:00 IST",Deleted,new,Dropbox for Business,DefaultOLD
